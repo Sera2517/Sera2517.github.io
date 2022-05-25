@@ -1,7 +1,7 @@
 .header {
   width: 100%;
   min-height: 1086px;
-  background: url("img/header_backroun.png") center center/cover no-repeat;
+  background: url("header_backroun.png") center center/cover no-repeat;
 }
 
 .header_sub {
