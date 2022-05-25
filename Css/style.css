@@ -361,7 +361,7 @@
 .services_block {
   margin-top: 64px;
   min-height: 478px;
-  background: url("img/Service.png") center center/cover no-repeat;
+  background: url("../img/Service.png") center center/cover no-repeat;
 }
 
 .services_block h3 {
